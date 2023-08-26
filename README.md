@@ -101,6 +101,7 @@ Welcome to my GitHub profile! I'm a developer with a passion for creating innova
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakshi-jaiswal-7232ab198/)
 [![LinkedIn](https://img.shields.io/badge/Instagram-962fbf?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_jaiswal_sakshi_/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-E7A41E?style=for-the-badge&logo=leetcode&logoColor=white)](https://www.leetcode.com/_sakshijaiswal)
 
 
 ## Conclusion
